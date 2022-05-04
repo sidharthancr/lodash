@@ -18,7 +18,7 @@ $ lodash -o ./dist/lodash.js
 $ lodash core -o ./dist/lodash.core.js
 ```
 
-## Download
+## Downloads
 
  * [Core build](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/core.js) ([~4 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/core.min.js))
  * [Full build](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/lodash.js) ([~24 kB gzipped](https://raw.githubusercontent.com/lodash/lodash/4.17.10-npm/lodash.min.js))
